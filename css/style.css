@@ -1,9 +1,6 @@
 /*
-
 Known Template 
-
 http://www.templatemo.com/tm-516-known
-
 */
 
   @import url('https://fonts.googleapis.com/css?family=Muli:300,700|Nunito');
@@ -54,8 +51,6 @@ http://www.templatemo.com/tm-516-known
     font-weight: normal;
     line-height: 24px;
   }
-
-
 
   /*---------------------------------------
      GENERAL               
@@ -178,8 +173,6 @@ http://www.templatemo.com/tm-516-known
     height: 390px;
   }
 
-
-
   /*---------------------------------------
      BUTTONS               
   -----------------------------------------*/
@@ -199,8 +192,6 @@ http://www.templatemo.com/tm-516-known
     background: #ffffff;
     border-color: transparent;
   }
-
-
 
   /*---------------------------------------
        PRE LOADER              
@@ -249,8 +240,6 @@ http://www.templatemo.com/tm-516-known
   @keyframes spinner {
     to {transform: rotate(360deg);}
   }
-
-
 
   /*---------------------------------------
       MENU              
@@ -332,8 +321,6 @@ http://www.templatemo.com/tm-516-known
     border-color: transparent;
   }
 
-
-
   /*---------------------------------------
       HOME  & SLIDER            
   -----------------------------------------*/
@@ -393,8 +380,6 @@ http://www.templatemo.com/tm-516-known
   .home-slider .item-third {
     background-image: url(../images/slider-image3.jpg);
   }
-
-
 
   /*---------------------------------------
       FEATURE              
