@@ -7,7 +7,6 @@
       $('.preloader').fadeOut(1000); // set duration in brackets    
     });
 
-
     // MENU
     $('.navbar-collapse a').on('click',function(){
       $(".navbar-collapse").collapse('hide');
@@ -20,7 +19,6 @@
             $(".navbar-fixed-top").removeClass("top-nav-collapse");
           }
     });
-
 
     // HOME SLIDER & COURSES & CLIENTS
     $('.home-slider').owlCarousel({
@@ -72,7 +70,6 @@
         }
       }
     });
-
 
     // SMOOTHSCROLL
     $(function() {
